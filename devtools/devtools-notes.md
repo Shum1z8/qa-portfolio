@@ -20,5 +20,11 @@
 - Если бы увидел ошибку JS, которая ломает функциональность (например, кнопка не работает), оформил бы баг-репорт с шагами, ожидаемым и фактическим результатом, скриншотом.
 
 ## Скрины
-- Network
-- Console
+
+**Network**
+
+![Network](https://github.com/user-attachments/assets/011ceb8d-ba69-4417-82eb-8dc0891978b1)
+
+**Console**
+
+![Console](https://github.com/user-attachments/assets/02110650-bd20-49a2-8946-63323ec9ccdd)
