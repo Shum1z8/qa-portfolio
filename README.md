@@ -29,9 +29,9 @@
 - Проверял валидацию: пустое имя, отрицательный id, невалидный статус.
 
 Файлы:
-- [Коллекция Postman](Petstore%20tests.postman_collection.json)
-- [Тест-кейсы](test-cases/petstore-test-cases.md)
-- [Баг-репорты](bug-reports/petstore-bug-reports.md)
+- [Коллекция Postman](https://github.com/Shum1z8/qa-portfolio/blob/main/Petstore%20tests.postman_collection.json)
+- [Тест-кейсы](https://github.com/Shum1z8/qa-portfolio/blob/main/test-cases/petstore-test-cases.md)
+- [Баг-репорты](https://github.com/Shum1z8/qa-portfolio/blob/main/bug-reports/petstore-bug-reports.md)
 
 ### 2. SauceDemo (ручное тестирование веб-приложения)
 
@@ -50,8 +50,8 @@
 - У флисовой куртки вместо цены отображается "$ √-1".
 
 Файлы:
-- [Баг-репорты](bug-reports/saucedemo-bug-reports.md)
-- [Тест-кейсы](test-cases/saucedemo-test-cases.md)
+- [Баг-репорты](https://github.com/Shum1z8/qa-portfolio/blob/main/bug-reports/saucedemo-bug-reports.md)
+- [Тест-кейсы](https://github.com/Shum1z8/qa-portfolio/blob/main/test-cases/saucedemo-test-cases.md)
 
 ### 3. Чек-лист регистрации (practice.expandtesting.com)
 
@@ -68,7 +68,7 @@
 - Проверка скрытия символов пароля: символы не видны.
 
 Файлы:
-- [Чек-лист](test-cases/registration-checklist.md)
+- [Чек-лист](https://github.com/Shum1z8/qa-portfolio/blob/main/test-cases/registration-checklist.md)
 
 ### 4. Chrome DevTools
 
@@ -85,7 +85,7 @@
 - Что бы залогировал как баг: если бы увидел ошибку JS, которая ломает функциональность, например кнопка не работает, оформил бы баг-репорт с шагами, ожидаемым и фактическим результатом, скриншотом.
 
 Файлы:
-- [Заметки](devtools/devtools-notes.md)
+- [Заметки](https://github.com/Shum1z8/qa-portfolio/blob/main/devtools/devtools-notes.md)
 
 ## Инструменты
 
@@ -117,6 +117,6 @@
 ## Как проверить SauceDemo
 
 1. Открой https://www.saucedemo.com
-2. Залогинься под problem_user / secret_sauce.
-3. Проверь сценарии из тест-кейсов: логин, каталог, корзина, checkout.
-4. Баг-репорты смотри в `bug-reports/saucedemo-bug-reports.md`.
+2. Залогиньтесь под problem_user / secret_sauce.
+3. Проверьте сценарии из тест-кейсов: логин, каталог, корзина, checkout.
+4. Баг-репорты смотрите в `bug-reports/saucedemo-bug-reports.md`.
