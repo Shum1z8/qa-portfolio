@@ -1,16 +1,21 @@
-# QA Portfolio — Petstore API
+# QA Portfolio
 
-Проект: тестирование API Swagger Petstore через Postman.
+Junior Manual QA. Учусь тестировать API и веб-приложения.
 
-## Что внутри
+## Проекты
+
+### Petstore API (Postman)
 - Коллекция Postman с CRUD-запросами (create, read, update, delete).
-- Проверка статус-кодов и ответов API.
+- Тест-кейсы на основные сценарии.
+- Баг-репорты по негативным сценариям.
 
 ## Инструменты
 - Postman
 - Swagger Petstore
 - GitHub
+- Chrome DevTools
 
 ## Как запустить
-1. Импортируй `.json` в Postman.
+1. Импортируй `.json` из папки `postman` в Postman.
 2. Запусти запросы по очереди.
+3. Тест-кейсы и баг-репорты — в соответствующих папках.
